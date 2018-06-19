@@ -16,8 +16,8 @@ npm run sass
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+# Youtube tutorial
+https://www.youtube.com/watch?v=AiTdhLc8JCo
 
 ### Version
 
@@ -26,3 +26,6 @@ Brad Traversy
 ### License
 
 This project is licensed under the MIT License
+
+# install the addon Live Server, then right click on the HTML file and launch it... will act like nodemon in conjunction with the run sass script
+#
