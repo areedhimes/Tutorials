@@ -27,5 +27,8 @@ https://www.youtube.com/watch?v=AiTdhLc8JCo
 
 This project is licensed under the MIT License
 
-# install the addon Live Server, then right click on the HTML file and launch it... will act like nodemon in conjunction with the run sass script
-#
+### How to run it
+Open git bash in dir, then type 'npm run sass'
+
+Install the addon Live Server to the VS IDE, then right click on the index.html and pick to start it from the menu
+
